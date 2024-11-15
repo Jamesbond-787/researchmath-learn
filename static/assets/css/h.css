@@ -5,7 +5,7 @@
 }
 
 .title {
-   font-size: 10vh;
+   font-size: 0.0001vh;
    color: var(--text-primary);
    font-family: "Inter", sans-serif;
    text-align: center;
