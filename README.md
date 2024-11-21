@@ -122,7 +122,7 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 4. Right-click Visibility and set Port Visibility to Public.
 
 > [!NOTE]
-> We are committed to making Interstellar easy and personalized however, as of now we need your support in making it ad-free. Consider keeping ads so Interstellar can run freely or contribute by being a supporter.
+> We are committed to making Research easy and personalized however, as of now we need your support in making it ad-free. Consider keeping ads so research can run freely or contribute by being a supporter.
 
 ## Report Issues
 
