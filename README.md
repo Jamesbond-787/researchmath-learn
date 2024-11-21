@@ -1,6 +1,6 @@
 <div align="center">
 
-    <p>Research is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
+<p>Research is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 
 
